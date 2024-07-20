@@ -1,0 +1,13 @@
+(library
+ (name bstmap)
+ (modules bstmap))
+
+
+(tests
+ (names hw7test)
+ (modules hw7test)
+ (libraries bstmap))
+
+(env
+  (dev
+    (flags (:standard -warn-error -A -w -27 -w -39 -w -33 -w -26))))
