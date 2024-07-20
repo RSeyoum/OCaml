@@ -1,0 +1,13 @@
+(library
+ (name deque)
+ (modules deque))
+
+
+(tests
+ (names dequetest)
+ (modules dequetest)
+ (libraries deque))
+
+(env
+  (dev
+    (flags (:standard -warn-error -A -w -27 -w -39 -w -33 -w -26))))
