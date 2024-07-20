@@ -1,0 +1,18 @@
+(library
+ (name hw4)
+ (libraries json)
+ (modules hw4))
+
+
+(library
+ (name json)
+ (modules json))
+
+(tests
+ (names hw4test)
+ (modules hw4test)
+ (libraries hw4))
+
+(env
+  (dev
+    (flags (:standard -warn-error -A -w -27 -w -39 -w -33 -w -26))))
