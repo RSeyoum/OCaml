@@ -1,0 +1,3 @@
+(executable
+ (name hw6test)
+ (libraries ounit2))

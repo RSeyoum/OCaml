@@ -1,0 +1,167 @@
+2023-03-31T23:32:56+00:00 DESKTOP-BIMOTIO#00 I: Runner: processes
+2023-03-31T23:32:56+00:00 DESKTOP-BIMOTIO#00 I: Chooser: simple
+2023-03-31T23:32:56+00:00 DESKTOP-BIMOTIO#00 I: Configuration suite_name = "test suite for Book"
+2023-03-31T23:32:56+00:00 DESKTOP-BIMOTIO#00 I: Configuration cache_filename = "/home/rseyoum/CS170/HW6/_build/oUnit-$(suite_name).cache"
+2023-03-31T23:32:56+00:00 DESKTOP-BIMOTIO#00 I: Configuration run_gc_full_major = "true"
+2023-03-31T23:32:56+00:00 DESKTOP-BIMOTIO#00 I: Configuration display = "true"
+2023-03-31T23:32:56+00:00 DESKTOP-BIMOTIO#00 I: Configuration results_style_1_X = "false"
+2023-03-31T23:32:56+00:00 DESKTOP-BIMOTIO#00 I: Configuration testdata_dir = "none"
+2023-03-31T23:32:56+00:00 DESKTOP-BIMOTIO#00 I: Configuration health_check_interval = "1."
+2023-03-31T23:32:56+00:00 DESKTOP-BIMOTIO#00 I: Configuration verbose = "false"
+2023-03-31T23:32:56+00:00 DESKTOP-BIMOTIO#00 I: Configuration chooser = "simple"
+2023-03-31T23:32:56+00:00 DESKTOP-BIMOTIO#00 I: Configuration output_html_dir = "none"
+2023-03-31T23:32:56+00:00 DESKTOP-BIMOTIO#00 I: Configuration processes_kill_period = "5."
+2023-03-31T23:32:56+00:00 DESKTOP-BIMOTIO#00 I: Configuration runner = "processes"
+2023-03-31T23:32:56+00:00 DESKTOP-BIMOTIO#00 I: Configuration shards = "4"
+2023-03-31T23:32:56+00:00 DESKTOP-BIMOTIO#00 I: Configuration processes_grace_period = "5."
+2023-03-31T23:32:56+00:00 DESKTOP-BIMOTIO#00 I: Configuration log_encoding = "utf-8"
+2023-03-31T23:32:56+00:00 DESKTOP-BIMOTIO#00 I: Configuration output_junit_file = "none"
+2023-03-31T23:32:56+00:00 DESKTOP-BIMOTIO#00 I: Configuration ci = "false"
+2023-03-31T23:32:56+00:00 DESKTOP-BIMOTIO#00 I: Configuration output_file = "/home/rseyoum/CS170/HW6/_build/oUnit-$(suite_name)-$(shard_id).log"
+2023-03-31T23:32:56+00:00 DESKTOP-BIMOTIO#00 I: Using 4 workers maximum.
+2023-03-31T23:32:56+00:00 DESKTOP-BIMOTIO#00 I: Starting worker number DESKTOP-BIMOTIO#01.
+2023-03-31T23:32:56+00:00 DESKTOP-BIMOTIO#00 I: Worker DESKTOP-BIMOTIO#01 started.
+2023-03-31T23:32:56+00:00 DESKTOP-BIMOTIO#00 I: Starting worker number DESKTOP-BIMOTIO#02.
+2023-03-31T23:32:56+00:00 DESKTOP-BIMOTIO#00 I: Worker DESKTOP-BIMOTIO#02 started.
+2023-03-31T23:32:56+00:00 DESKTOP-BIMOTIO#00 I: Starting worker number DESKTOP-BIMOTIO#03.
+2023-03-31T23:32:56+00:00 DESKTOP-BIMOTIO#00 I: Worker DESKTOP-BIMOTIO#03 started.
+2023-03-31T23:32:56+00:00 DESKTOP-BIMOTIO#00 I: Starting worker number DESKTOP-BIMOTIO#04.
+2023-03-31T23:32:56+00:00 DESKTOP-BIMOTIO#00 I: Worker DESKTOP-BIMOTIO#04 started.
+2023-03-31T23:32:56+00:00 DESKTOP-BIMOTIO#00 I: 4 tests running: test suite for Book:3:book empty, current page, test suite for Book:2:book 2pages forwarded, unbind, test suite for Book:1:book 2pages at the beginning, unbind, test suite for Book:0:book empty, unbind.
+2023-03-31T23:32:56+00:00 DESKTOP-BIMOTIO#01 I: Start test test suite for Book:0:book empty, unbind.
+2023-03-31T23:32:56+00:00 DESKTOP-BIMOTIO#02 I: Start test test suite for Book:1:book 2pages at the beginning, unbind.
+2023-03-31T23:32:56+00:00 DESKTOP-BIMOTIO#03 I: Start test test suite for Book:2:book 2pages forwarded, unbind.
+2023-03-31T23:32:56+00:00 DESKTOP-BIMOTIO#00 I: 4 tests running: test suite for Book:3:book empty, current page, test suite for Book:2:book 2pages forwarded, unbind, test suite for Book:1:book 2pages at the beginning, unbind, test suite for Book:0:book empty, unbind.
+2023-03-31T23:32:56+00:00 DESKTOP-BIMOTIO#04 I: Start test test suite for Book:3:book empty, current page.
+2023-03-31T23:32:56+00:00 DESKTOP-BIMOTIO#00 I: 4 tests running: test suite for Book:3:book empty, current page, test suite for Book:2:book 2pages forwarded, unbind, test suite for Book:1:book 2pages at the beginning, unbind, test suite for Book:0:book empty, unbind.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#01 I: Test test suite for Book:0:book empty, unbind is successful.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: 4 tests running: test suite for Book:3:book empty, current page, test suite for Book:2:book 2pages forwarded, unbind, test suite for Book:1:book 2pages at the beginning, unbind, test suite for Book:0:book empty, unbind.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#01 I: End test test suite for Book:0:book empty, unbind.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: 4 tests running: test suite for Book:3:book empty, current page, test suite for Book:2:book 2pages forwarded, unbind, test suite for Book:1:book 2pages at the beginning, unbind, test suite for Book:0:book empty, unbind.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: 4 tests running: test suite for Book:4:book 2pages at the beginning, current page, test suite for Book:3:book empty, current page, test suite for Book:2:book 2pages forwarded, unbind, test suite for Book:1:book 2pages at the beginning, unbind.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#01 I: Start test test suite for Book:4:book 2pages at the beginning, current page.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: 4 tests running: test suite for Book:4:book 2pages at the beginning, current page, test suite for Book:3:book empty, current page, test suite for Book:2:book 2pages forwarded, unbind, test suite for Book:1:book 2pages at the beginning, unbind.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#02 I: Test test suite for Book:1:book 2pages at the beginning, unbind is successful.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: 4 tests running: test suite for Book:4:book 2pages at the beginning, current page, test suite for Book:3:book empty, current page, test suite for Book:2:book 2pages forwarded, unbind, test suite for Book:1:book 2pages at the beginning, unbind.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#02 I: End test test suite for Book:1:book 2pages at the beginning, unbind.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: 4 tests running: test suite for Book:4:book 2pages at the beginning, current page, test suite for Book:3:book empty, current page, test suite for Book:2:book 2pages forwarded, unbind, test suite for Book:1:book 2pages at the beginning, unbind.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: 4 tests running: test suite for Book:5:book 2pages forwarded, current page, test suite for Book:4:book 2pages at the beginning, current page, test suite for Book:3:book empty, current page, test suite for Book:2:book 2pages forwarded, unbind.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#02 I: Start test test suite for Book:5:book 2pages forwarded, current page.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: 4 tests running: test suite for Book:5:book 2pages forwarded, current page, test suite for Book:4:book 2pages at the beginning, current page, test suite for Book:3:book empty, current page, test suite for Book:2:book 2pages forwarded, unbind.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#03 I: Test test suite for Book:2:book 2pages forwarded, unbind is successful.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: 4 tests running: test suite for Book:5:book 2pages forwarded, current page, test suite for Book:4:book 2pages at the beginning, current page, test suite for Book:3:book empty, current page, test suite for Book:2:book 2pages forwarded, unbind.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#03 I: End test test suite for Book:2:book 2pages forwarded, unbind.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: 4 tests running: test suite for Book:5:book 2pages forwarded, current page, test suite for Book:4:book 2pages at the beginning, current page, test suite for Book:3:book empty, current page, test suite for Book:2:book 2pages forwarded, unbind.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#01 I: Test test suite for Book:4:book 2pages at the beginning, current page is successful.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: 4 tests running: test suite for Book:6:book empty, flip backward, test suite for Book:5:book 2pages forwarded, current page, test suite for Book:4:book 2pages at the beginning, current page, test suite for Book:3:book empty, current page.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#01 I: End test test suite for Book:4:book 2pages at the beginning, current page.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#03 I: Start test test suite for Book:6:book empty, flip backward.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: 4 tests running: test suite for Book:6:book empty, flip backward, test suite for Book:5:book 2pages forwarded, current page, test suite for Book:4:book 2pages at the beginning, current page, test suite for Book:3:book empty, current page.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: 4 tests running: test suite for Book:7:student lambda 1, read book_empty , test suite for Book:6:book empty, flip backward, test suite for Book:5:book 2pages forwarded, current page, test suite for Book:3:book empty, current page.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#04 I: Test test suite for Book:3:book empty, current page is successful.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#02 I: Test test suite for Book:5:book 2pages forwarded, current page is successful.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#01 I: Start test test suite for Book:7:student lambda 1, read book_empty .
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: 4 tests running: test suite for Book:7:student lambda 1, read book_empty , test suite for Book:6:book empty, flip backward, test suite for Book:5:book 2pages forwarded, current page, test suite for Book:3:book empty, current page.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#04 I: End test test suite for Book:3:book empty, current page.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#02 I: End test test suite for Book:5:book 2pages forwarded, current page.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: 4 tests running: test suite for Book:7:student lambda 1, read book_empty , test suite for Book:6:book empty, flip backward, test suite for Book:5:book 2pages forwarded, current page, test suite for Book:3:book empty, current page.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: 4 tests running: test suite for Book:9:student lambda 1, read book_2pages_fd , test suite for Book:8:student lambda 1, read book_2pages , test suite for Book:7:student lambda 1, read book_empty , test suite for Book:6:book empty, flip backward.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#03 I: Test test suite for Book:6:book empty, flip backward is successful.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#02 I: Start test test suite for Book:8:student lambda 1, read book_2pages .
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#04 I: Start test test suite for Book:9:student lambda 1, read book_2pages_fd .
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: 4 tests running: test suite for Book:9:student lambda 1, read book_2pages_fd , test suite for Book:8:student lambda 1, read book_2pages , test suite for Book:7:student lambda 1, read book_empty , test suite for Book:6:book empty, flip backward.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#03 I: End test test suite for Book:6:book empty, flip backward.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: 4 tests running: test suite for Book:9:student lambda 1, read book_2pages_fd , test suite for Book:8:student lambda 1, read book_2pages , test suite for Book:7:student lambda 1, read book_empty , test suite for Book:6:book empty, flip backward.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: 4 tests running: test suite for Book:10:book 4pages at the beginning, unbind, test suite for Book:9:student lambda 1, read book_2pages_fd , test suite for Book:8:student lambda 1, read book_2pages , test suite for Book:7:student lambda 1, read book_empty .
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#03 I: Start test test suite for Book:10:book 4pages at the beginning, unbind.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: 4 tests running: test suite for Book:10:book 4pages at the beginning, unbind, test suite for Book:9:student lambda 1, read book_2pages_fd , test suite for Book:8:student lambda 1, read book_2pages , test suite for Book:7:student lambda 1, read book_empty .
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#01 I: Test test suite for Book:7:student lambda 1, read book_empty  is successful.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#02 I: Test test suite for Book:8:student lambda 1, read book_2pages  is successful.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#04 I: Test test suite for Book:9:student lambda 1, read book_2pages_fd  is successful.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: 4 tests running: test suite for Book:10:book 4pages at the beginning, unbind, test suite for Book:9:student lambda 1, read book_2pages_fd , test suite for Book:8:student lambda 1, read book_2pages , test suite for Book:7:student lambda 1, read book_empty .
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#01 I: End test test suite for Book:7:student lambda 1, read book_empty .
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#02 I: End test test suite for Book:8:student lambda 1, read book_2pages .
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#04 I: End test test suite for Book:9:student lambda 1, read book_2pages_fd .
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#03 I: Test test suite for Book:10:book 4pages at the beginning, unbind is successful.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: 4 tests running: test suite for Book:10:book 4pages at the beginning, unbind, test suite for Book:9:student lambda 1, read book_2pages_fd , test suite for Book:8:student lambda 1, read book_2pages , test suite for Book:7:student lambda 1, read book_empty .
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#03 I: End test test suite for Book:10:book 4pages at the beginning, unbind.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: 4 tests running: test suite for Book:13:student lambda 4, read book_4pages, test suite for Book:12:book 4pages forwarded, current page, test suite for Book:11:book 4pages at the beginning, current page, test suite for Book:10:book 4pages at the beginning, unbind.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#04 I: Start test test suite for Book:11:book 4pages at the beginning, current page.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#02 I: Start test test suite for Book:12:book 4pages forwarded, current page.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: 4 tests running: test suite for Book:14:student lambda 4, read book_4pages_fd2, test suite for Book:13:student lambda 4, read book_4pages, test suite for Book:12:book 4pages forwarded, current page, test suite for Book:11:book 4pages at the beginning, current page.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#03 I: Start test test suite for Book:14:student lambda 4, read book_4pages_fd2.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: 4 tests running: test suite for Book:14:student lambda 4, read book_4pages_fd2, test suite for Book:13:student lambda 4, read book_4pages, test suite for Book:12:book 4pages forwarded, current page, test suite for Book:11:book 4pages at the beginning, current page.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#01 I: Start test test suite for Book:13:student lambda 4, read book_4pages.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: 4 tests running: test suite for Book:14:student lambda 4, read book_4pages_fd2, test suite for Book:13:student lambda 4, read book_4pages, test suite for Book:12:book 4pages forwarded, current page, test suite for Book:11:book 4pages at the beginning, current page.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#04 I: Test test suite for Book:11:book 4pages at the beginning, current page is successful.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#02 I: Test test suite for Book:12:book 4pages forwarded, current page is successful.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: 4 tests running: test suite for Book:14:student lambda 4, read book_4pages_fd2, test suite for Book:13:student lambda 4, read book_4pages, test suite for Book:12:book 4pages forwarded, current page, test suite for Book:11:book 4pages at the beginning, current page.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#04 I: End test test suite for Book:11:book 4pages at the beginning, current page.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#02 I: End test test suite for Book:12:book 4pages forwarded, current page.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#01 I: Test test suite for Book:13:student lambda 4, read book_4pages is successful.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#03 I: Test test suite for Book:14:student lambda 4, read book_4pages_fd2 is successful.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: 4 tests running: test suite for Book:14:student lambda 4, read book_4pages_fd2, test suite for Book:13:student lambda 4, read book_4pages, test suite for Book:12:book 4pages forwarded, current page, test suite for Book:11:book 4pages at the beginning, current page.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#01 I: End test test suite for Book:13:student lambda 4, read book_4pages.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#03 I: End test test suite for Book:14:student lambda 4, read book_4pages_fd2.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: 4 tests running: test suite for Book:16:student lambda 4, read book_3pages_fd, test suite for Book:15:student lambda 4, read book_3pages, test suite for Book:14:student lambda 4, read book_4pages_fd2, test suite for Book:13:student lambda 4, read book_4pages.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: Still 3 tests running : test suite for Book:17:student lambda 4, read book_1page, test suite for Book:16:student lambda 4, read book_3pages_fd, test suite for Book:15:student lambda 4, read book_3pages.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: 3 tests running: test suite for Book:17:student lambda 4, read book_1page, test suite for Book:16:student lambda 4, read book_3pages_fd, test suite for Book:15:student lambda 4, read book_3pages.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#02 I: Start test test suite for Book:15:student lambda 4, read book_3pages.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#04 I: Start test test suite for Book:16:student lambda 4, read book_3pages_fd.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#03 I: Start test test suite for Book:17:student lambda 4, read book_1page.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: Still 3 tests running : test suite for Book:17:student lambda 4, read book_1page, test suite for Book:16:student lambda 4, read book_3pages_fd, test suite for Book:15:student lambda 4, read book_3pages.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: 3 tests running: test suite for Book:17:student lambda 4, read book_1page, test suite for Book:16:student lambda 4, read book_3pages_fd, test suite for Book:15:student lambda 4, read book_3pages.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#02 I: Test test suite for Book:15:student lambda 4, read book_3pages is successful.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#04 I: Test test suite for Book:16:student lambda 4, read book_3pages_fd is successful.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: Still 3 tests running : test suite for Book:17:student lambda 4, read book_1page, test suite for Book:16:student lambda 4, read book_3pages_fd, test suite for Book:15:student lambda 4, read book_3pages.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: 3 tests running: test suite for Book:17:student lambda 4, read book_1page, test suite for Book:16:student lambda 4, read book_3pages_fd, test suite for Book:15:student lambda 4, read book_3pages.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#02 I: End test test suite for Book:15:student lambda 4, read book_3pages.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#04 I: End test test suite for Book:16:student lambda 4, read book_3pages_fd.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#03 I: Test test suite for Book:17:student lambda 4, read book_1page is successful.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: Still 3 tests running : test suite for Book:17:student lambda 4, read book_1page, test suite for Book:16:student lambda 4, read book_3pages_fd, test suite for Book:15:student lambda 4, read book_3pages.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: 3 tests running: test suite for Book:17:student lambda 4, read book_1page, test suite for Book:16:student lambda 4, read book_3pages_fd, test suite for Book:15:student lambda 4, read book_3pages.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#03 I: End test test suite for Book:17:student lambda 4, read book_1page.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: Still 1 tests running : test suite for Book:17:student lambda 4, read book_1page.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: 1 tests running: test suite for Book:17:student lambda 4, read book_1page.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: 0 tests running: .
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: Worker DESKTOP-BIMOTIO#01 has ended.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: Worker DESKTOP-BIMOTIO#02 has ended.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: Worker DESKTOP-BIMOTIO#04 has ended.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: Worker DESKTOP-BIMOTIO#03 has ended.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: Used 4 worker during test execution.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: Run 5 tests with shard DESKTOP-BIMOTIO#03.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: Run 5 tests with shard DESKTOP-BIMOTIO#02.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: Run 4 tests with shard DESKTOP-BIMOTIO#01.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: Run 4 tests with shard DESKTOP-BIMOTIO#04.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: Check health of shard DESKTOP-BIMOTIO#03, 1 times.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: Check health of shard DESKTOP-BIMOTIO#02, 2 times.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: Check health of shard DESKTOP-BIMOTIO#01, 6 times.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: Check health of shard DESKTOP-BIMOTIO#04, 2 times.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: ==============
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: Summary:
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: Test test suite for Book:17:student lambda 4, read book_1page is successful.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: Test test suite for Book:16:student lambda 4, read book_3pages_fd is successful.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: Test test suite for Book:15:student lambda 4, read book_3pages is successful.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: Test test suite for Book:14:student lambda 4, read book_4pages_fd2 is successful.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: Test test suite for Book:13:student lambda 4, read book_4pages is successful.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: Test test suite for Book:12:book 4pages forwarded, current page is successful.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: Test test suite for Book:11:book 4pages at the beginning, current page is successful.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: Test test suite for Book:10:book 4pages at the beginning, unbind is successful.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: Test test suite for Book:9:student lambda 1, read book_2pages_fd  is successful.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: Test test suite for Book:8:student lambda 1, read book_2pages  is successful.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: Test test suite for Book:7:student lambda 1, read book_empty  is successful.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: Test test suite for Book:6:book empty, flip backward is successful.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: Test test suite for Book:5:book 2pages forwarded, current page is successful.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: Test test suite for Book:3:book empty, current page is successful.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: Test test suite for Book:4:book 2pages at the beginning, current page is successful.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: Test test suite for Book:2:book 2pages forwarded, unbind is successful.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: Test test suite for Book:1:book 2pages at the beginning, unbind is successful.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: Test test suite for Book:0:book empty, unbind is successful.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: Ran: 18 tests in: 0.11 seconds.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: Cases: 18.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: Tried: 18.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: Errors: 0.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: Failures: 0.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: Skip: 0.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: Todo: 0.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#00 I: Timeout: 0.

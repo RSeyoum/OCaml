@@ -1,0 +1,15 @@
+2023-03-31T23:32:56+00:00 DESKTOP-BIMOTIO#03 I: Start test test suite for Book:2:book 2pages forwarded, unbind.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#03 I: Test test suite for Book:2:book 2pages forwarded, unbind is successful.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#03 I: End test test suite for Book:2:book 2pages forwarded, unbind.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#03 I: Start test test suite for Book:6:book empty, flip backward.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#03 I: Test test suite for Book:6:book empty, flip backward is successful.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#03 I: End test test suite for Book:6:book empty, flip backward.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#03 I: Start test test suite for Book:10:book 4pages at the beginning, unbind.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#03 I: Test test suite for Book:10:book 4pages at the beginning, unbind is successful.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#03 I: End test test suite for Book:10:book 4pages at the beginning, unbind.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#03 I: Start test test suite for Book:14:student lambda 4, read book_4pages_fd2.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#03 I: Test test suite for Book:14:student lambda 4, read book_4pages_fd2 is successful.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#03 I: End test test suite for Book:14:student lambda 4, read book_4pages_fd2.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#03 I: Start test test suite for Book:17:student lambda 4, read book_1page.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#03 I: Test test suite for Book:17:student lambda 4, read book_1page is successful.
+2023-03-31T23:32:57+00:00 DESKTOP-BIMOTIO#03 I: End test test suite for Book:17:student lambda 4, read book_1page.
