@@ -1,0 +1,3 @@
+(executable
+	(name Ruth_S_hw2)
+	(libraries ounit2))
